@@ -24,7 +24,7 @@ using std::endl;
 int main (int argc, char **argv)
 {
 	//grading_exercise();
-	//guess_my_random_number();
+	guess_my_random_number();
 	//brackets();
 	//names();
 	tictic();
